@@ -1,0 +1,10 @@
+Intelligent System : It is an advanced computer  technology that mimics the human intelligence. The major goal of
+Intelligent system is to make decisions,recognise patterns and act exactly like human.
+In AI , Intelligent system uses algorithm and data to perform tasks that usually require human intelligence
+These systems:
+Collect Data 
+Analyse the data 
+Make decisions 
+Take actions
+The applications of I.S. are healthcare, industries,robotics and business.
+Components intelligent 
